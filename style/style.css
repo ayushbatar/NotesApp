@@ -6,12 +6,12 @@
 }
 
 .container{
-    min-width: 100%;
+    width: 100%;
     min-height: 100vh;
     background: linear-gradient(135deg, #9281db, #54bbe4);
     color: white;
     padding-top: 20px;
-    padding-left: 12%;
+    padding-inline: 12%;
 
 }
 
@@ -50,7 +50,7 @@
 
 .note{
     position: relative;
-    width: 500px;
+    width:100%;
     padding: 15px;
     min-height: 150px;
     background-color: white;
@@ -69,7 +69,8 @@
 .note p{
     overflow: scroll;
     
-    width: 490px;
+    width: 100%;
+    min-height: 150px;
     height: 150px;
     outline: none;
     border: none;
