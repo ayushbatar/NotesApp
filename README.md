@@ -1,11 +1,3 @@
-<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="NotesApp" />
-
-  &#xa0;
-
-  <a href="https://ayushbatar-notesapp.netlify.app/">Demo</a>
-</div>
-
 <h1 align="center">NotesApp</h1>
 
 <p align="center">
@@ -43,6 +35,10 @@
 ## :dart: About ##
 
 The Notes App is a simple web application that allows users to create and manage notes. It provides a user-friendly interface where users can add, edit, and delete notes. The app uses HTML, CSS, and JavaScript to create a visually appealing and interactive experience. The notes are stored in the browser's local storage, allowing users to access their notes across sessions. The app also includes features like note deletion and a clean and minimalistic design.
+
+## :eyeglasses: Demo
+
+[View the app in action!](https://ayushbatar-notesapp.netlify.app/)
 
 ## :sparkles: Features ##
 
