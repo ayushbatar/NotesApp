@@ -2,7 +2,7 @@
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/ayushbatar/notesapp?color=56BEB8">
-
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ayushbatar/notesapp">
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/ayushbatar/notesapp?color=56BEB8">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/ayushbatar/notesapp?color=56BEB8">
