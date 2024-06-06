@@ -3,7 +3,7 @@
 
   &#xa0;
 
-  <!-- <a href="https://notesapp.netlify.app">Demo</a> -->
+  <a href="https://ayushbatar-notesapp.netlify.app/">Demo</a>
 </div>
 
 <h1 align="center">NotesApp</h1>
@@ -14,8 +14,6 @@
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/ayushbatar/notesapp?color=56BEB8">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/ayushbatar/notesapp?color=56BEB8">
-
-  <img alt="License" src="https://img.shields.io/github/license/ayushbatar/notesapp?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/ayushbatar/notesapp?color=56BEB8" /> -->
 
@@ -37,8 +35,6 @@
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/ayushbatar" target="_blank">Author</a>
 </p>
 
